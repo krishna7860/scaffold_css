@@ -6,7 +6,7 @@ CSS Designed for you,while working with javascript why bother to design the layo
 _Use our CDN And link file to the HTML head Tag and paste the CDN Url as shown as below_
 
 
-             ~~~ &lt;head&gt;
-              &lt;link rel="stylesheet" href="https://www.cdnnetwork.scaffold_css.css" /&gt;
-              &lt;link rel="stylesheet" href="https://www.cdnnetwork.scaffold_css.css" /&gt;
-              &lt;/head> ~~~
+              <head>
+              <link rel="stylesheet" href="https://www.cdnnetwork.scaffold_css.css" />
+              <link rel="stylesheet" href="https://www.cdnnetwork.scaffold_css.css" />
+              </head> 
