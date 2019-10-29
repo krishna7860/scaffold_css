@@ -7,6 +7,6 @@ _Use our CDN And link file to the HTML head Tag and paste the CDN Url as shown a
 
 
               <head>
-              <link rel="stylesheet" href="https://www.cdnnetwork.scaffold_css.css" />
-              <link rel="stylesheet" href="https://www.cdnnetwork.scaffold_css.css" />
+              <link rel="stylesheet" href="https://scffoldcss.netlify.com/scaffold_css.css" />
+              <link rel="stylesheet" href="https://scffoldcss.netlify.com/scaffold_minified.css" />
               </head> 
